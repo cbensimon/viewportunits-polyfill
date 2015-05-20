@@ -1,0 +1,18 @@
+* {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+div {
+	height: calc(100vh - 100px);
+	background-color: red;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	height: 100px;
+	width: 100%;
+	background-color: blue;
+}
