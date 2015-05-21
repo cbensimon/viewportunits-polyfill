@@ -1,7 +1,7 @@
 # viewportunits-polyfill
 Fix viewport unit bugs and enables using them inside `calc` function
 
-Enables only on :
+Activates only on :
 * iOS < 8
 * Safari < 8
 
